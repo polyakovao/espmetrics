@@ -6,3 +6,9 @@ https://www.google.com/search?q=ch340+driver&ei=G_WYY7GWHNWbwPAPquGMsAg&ved=0ahU
 
 Also download Arduino for uploading sketch to ESP
 https://www.arduino.cc/
+
+sketch for project can be found in this folder esp8266loger.ino
+before upload plz change:
+WIFIlogin - to your wifi network login
+WIFIpassword -to your wifi network password
+http://site.com/method - to server and method which is used to collect logs (for uphome.fun contact to developer for your own method)
