@@ -18,7 +18,7 @@ TC1262: Range voltage: 6 V Max current out: 500 mA Quiescent current: 130 uA Dro
 SPX3819: Range voltage: 16 V Max Max current out: 500 mA Quiescent current: 8 uA Drop out voltage: 550 mV
 AMS1117: Range voltage: 12 v Max Max current out: 1 A Quiescent current: 5 mA Drop out voltage: 1.3 V
 or
-LN1134A182 4VK4 / MAX8863T / MAX8864T / SPX3819 / MIC5219 / XC6206
+LN1134A182 4VK4 / MAX8863T / MAX8864T / SPX3819 / MIC5219 / ( XC6206 will use this one)
 
 
 
