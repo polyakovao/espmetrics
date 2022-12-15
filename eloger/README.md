@@ -12,3 +12,5 @@ before upload plz change:
 WIFIlogin - to your wifi network login
 WIFIpassword -to your wifi network password
 http://site.com/method - to server and method which is used to collect logs (for uphome.fun contact to developer for your own method)
+
+There is no need in any schematic, just power module by built in esp8266 Wemos board micro usb
